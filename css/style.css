@@ -137,7 +137,7 @@ h6 {
 #hero {
   width: 100%;
   height: 100vh;
-  background: url(../images/market.jpg) top center;
+  background: url(../img/hero-bg.jpg) top center;
   background-size: cover;
   position: relative;
 }
@@ -484,50 +484,45 @@ body.mobile-nav-active #mobile-nav-toggle {
   color: #999;
 }
 
-
-
-
-
-
-/* Minivan Section
+/* About Us Section
 --------------------------------*/
 
-#minivan {
+#about {
   background: #fff;
   padding: 80px 0;
 }
 
-#minivan .minivan-container .background {
+#about .about-container .background {
   min-height: 300px;
-  background: url(../images/Mike.jpg) center top no-repeat;
+  background: url(../img/about-img.jpg) center top no-repeat;
   margin-bottom: 10px;
 }
 
-#minivan .minivan-container .content {
+#about .about-container .content {
   background: #fff;
 }
 
-#minivan .minivan-container .title {
+#about .about-container .title {
   color: #333;
   font-weight: 700;
   font-size: 32px;
 }
 
-#minivan .minivan-container p {
+#about .about-container p {
   line-height: 26px;
 }
 
-#minivan .minivan-container p:last-child {
+#about .about-container p:last-child {
   margin-bottom: 0;
 }
 
-#minivan .minivan-container .icon-box {
+#about .about-container .icon-box {
   background: #fff;
   background-size: cover;
   padding: 0 0 30px 0;
 }
 
-#minivan .minivan-container .icon-box .icon {
+#about .about-container .icon-box .icon {
   float: left;
   background: #fff;
   width: 64px;
@@ -554,12 +549,12 @@ body.mobile-nav-active #mobile-nav-toggle {
   border: 2px solid #2dc997;
 }
 
-#minivan .minivan-container .icon-box .icon i {
+#about .about-container .icon-box .icon i {
   color: #2dc997;
   font-size: 24px;
 }
 
-#minivan .minivan-container .icon-box .title {
+#about .about-container .icon-box .title {
   margin-left: 80px;
   font-weight: 500;
   margin-bottom: 5px;
@@ -567,17 +562,36 @@ body.mobile-nav-active #mobile-nav-toggle {
   text-transform: uppercase;
 }
 
-#minivan .minivan-container .icon-box .title a {
+#about .about-container .icon-box .title a {
   color: #111;
 }
 
-#minivan .minivan-container .icon-box .description {
+#about .about-container .icon-box .description {
   margin-left: 80px;
   line-height: 24px;
   font-size: 14px;
 }
 
+/* Facts Section
+--------------------------------*/
 
+#facts {
+  background: #f7f7f7;
+  padding: 80px 0 60px 0;
+}
+
+#facts .counters span {
+  font-size: 48px;
+  display: block;
+  color: #2dc997;
+}
+
+#facts .counters p {
+  padding: 0;
+  margin: 0 0 20px 0;
+  font-family: "Poppins", sans-serif;
+  font-size: 14px;
+}
 
 /* Services Section
 --------------------------------*/
@@ -670,7 +684,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 --------------------------------*/
 
 #call-to-action {
-  background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url(../images/call-to-action-bg.jpg) fixed center center;
+  background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url(../img/call-to-action-bg.jpg) fixed center center;
   background-size: cover;
   padding: 80px 0;
 }
@@ -1044,7 +1058,7 @@ body.mobile-nav-active #mobile-nav-toggle {
     display: inline;
   }
 
-  #minivan .minivan-container .title {
+  #about .about-container .title {
     padding-top: 15px;
   }
 }
