@@ -760,10 +760,20 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 
 
+/* Contact Section
+--------------------------------*/
 
+#contact .column {
+  float: left;
+  width: 50%;
+}
 
-
-
+/* Clear floats after the columns */
+# contact .row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
 
 
 
