@@ -799,54 +799,54 @@ body.mobile-nav-active #mobile-nav-toggle {
   top: -30px;
 }
 
-/* Team Section
+/* Park Section
 --------------------------------*/
 
-#team {
+#park {
   background: #fff;
   padding: 80px 0 60px 0;
 }
 
-#team .member {
+#park .member {
   text-align: center;
   margin-bottom: 20px;
 }
 
-#team .member .pic {
+#park .member .pic {
   margin-bottom: 15px;
   overflow: hidden;
   height: 260px;
 }
 
-#team .member .pic img {
+#park .member .pic img {
   max-width: 100%;
 }
 
-#team .member h4 {
+#park .member h4 {
   font-weight: 700;
   margin-bottom: 2px;
   font-size: 18px;
 }
 
-#team .member span {
+#park .member span {
   font-style: italic;
   display: block;
   font-size: 13px;
 }
 
-#team .member .social {
+#park .member .social {
   margin-top: 15px;
 }
 
-#team .member .social a {
+#park .member .social a {
   color: #b3b3b3;
 }
 
-#team .member .social a:hover {
+#park .member .social a:hover {
   color: #2dc997;
 }
 
-#team .member .social i {
+#park .member .social i {
   font-size: 18px;
   margin: 0 2px;
 }
