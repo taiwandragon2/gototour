@@ -822,7 +822,19 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 @media (max-width: 1024px) {
-  #action {
+  #red1 {
+    background-attachment: scroll;
+  }
+}
+
+@media (max-width: 1024px) {
+  #pink1 {
+    background-attachment: scroll;
+  }
+}
+
+@media (max-width: 1024px) {
+  #coffee1 {
     background-attachment: scroll;
   }
 }
@@ -859,6 +871,14 @@ body.mobile-nav-active #mobile-nav-toggle {
     display: inline;
   }
 
+  #red1 .coffee1-container .title {
+    padding-top: 15px;
+  }
+  
+  #pink1 .coffee1-container .title {
+    padding-top: 15px;
+  }
+  
   #coffee1 .coffee1-container .title {
     padding-top: 15px;
   }
