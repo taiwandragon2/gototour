@@ -904,6 +904,10 @@ body.mobile-nav-active #mobile-nav-toggle {
     display: inline;
   }
 
+  #minivan .minivan-container .title {
+    padding-top: 15px;
+  }
+	  
   #bus .bus-container .title {
     padding-top: 15px;
   }
