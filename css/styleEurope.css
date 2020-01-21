@@ -773,61 +773,6 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 
 
-/* Park Section
---------------------------------*/
-
-#park {
-  background: #fff;
-  padding: 80px 0 60px 0;
-}
-
-#park .member {
-  text-align: center;
-  margin-bottom: 20px;
-}
-
-#park .member .pic {
-  margin-bottom: 15px;
-  overflow: hidden;
-  height: 260px;
-}
-
-#park .member .pic img {
-  max-width: 100%;
-}
-
-#park .member h4 {
-  font-weight: 700;
-  margin-bottom: 2px;
-  font-size: 18px;
-}
-
-#park .member span {
-  font-style: italic;
-  display: block;
-  font-size: 13px;
-}
-
-#park .member .social {
-  margin-top: 15px;
-}
-
-#park .member .social a {
-  color: #b3b3b3;
-}
-
-#park .member .social a:hover {
-  color: #2dc997;
-}
-
-#park .member .social i {
-  font-size: 18px;
-  margin: 0 2px;
-}
-
-
-
-
 
 
 
