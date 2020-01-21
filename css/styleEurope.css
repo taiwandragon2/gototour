@@ -137,7 +137,7 @@ h6 {
 #hero {
   width: 100%;
   height: 100vh;
-  background: url(../images/lantern-4.jpg) top center;
+  background: url(../images/Paris.jpg) top center;
   background-size: cover;
   position: relative;
 }
@@ -492,122 +492,45 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 
 
-
-
-/* Suggest Section
+/* Red1 Section
 --------------------------------*/
 
-#suggest {
-  background: #fff;
-  padding: 80px 0 60px 0;
-}
-
-#suggest .member {
-  text-align: center;
-  margin-bottom: 20px;
-}
-
-#suggest .member .pic {
-  margin-bottom: 15px;
-  overflow: hidden;
-  height: 260px;
-}
-
-#suggest .member .pic img {
-  max-width: 100%;
-}
-
-#suggest .member h4 {
-  font-weight: 700;
-  margin-bottom: 2px;
-  font-size: 18px;
-}
-
-#suggest .member span {
-  font-style: italic;
-  display: block;
-  font-size: 13px;
-}
-
-#suggest .member .social {
-  margin-top: 15px;
-}
-
-#suggest .member .social a {
-  color: #b3b3b3;
-}
-
-#suggest .member .social a:hover {
-  color: #2dc997;
-}
-
-#suggest .member .social i {
-  font-size: 18px;
-  margin: 0 2px;
-}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-/* Minivan Section
---------------------------------*/
-
-#minivan {
+#red1 {
   background: #fff;
   padding: 80px 0;
 }
 
-#minivan .minivan-container .background {
+#red1 .red1-container .background {
   min-height: 300px;
-  background: url(../images/Mike.jpg) center top no-repeat;
+  background: url(../images/Red.jpg) center top no-repeat;
   margin-bottom: 10px;
 }
 
-#minivan .minivan-container .content {
+#red1 .red1-container .content {
   background: #fff;
 }
 
-#minivan .minivan-container .title {
+#red1 .red1-container .title {
   color: #333;
   font-weight: 700;
   font-size: 32px;
 }
 
-#minivan .minivan-container p {
+#red1 .red1-container p {
   line-height: 26px;
 }
 
-#minivan .minivan-container p:last-child {
+#red1 .red1-container p:last-child {
   margin-bottom: 0;
 }
 
-#minivan .minivan-container .icon-box {
+#red1 .red1-container .icon-box {
   background: #fff;
   background-size: cover;
   padding: 0 0 30px 0;
 }
 
-#minivan .minivan-container .icon-box .icon {
+#red1 .red1-container .icon-box .icon {
   float: left;
   background: #fff;
   width: 64px;
@@ -634,12 +557,12 @@ body.mobile-nav-active #mobile-nav-toggle {
   border: 2px solid #2dc997;
 }
 
-#minivan .minivan-container .icon-box .icon i {
+#red1 .red1-container .icon-box .icon i {
   color: #2dc997;
   font-size: 24px;
 }
 
-#minivan .minivan-container .icon-box .title {
+#red1 .red1-container .icon-box .title {
   margin-left: 80px;
   font-weight: 500;
   margin-bottom: 5px;
@@ -647,11 +570,11 @@ body.mobile-nav-active #mobile-nav-toggle {
   text-transform: uppercase;
 }
 
-#minivan .minivan-container .icon-box .title a {
+#red1 .red1-container .icon-box .title a {
   color: #111;
 }
 
-#minivan .minivan-container .icon-box .description {
+#red1 .red1-container .icon-box .description {
   margin-left: 80px;
   line-height: 24px;
   font-size: 14px;
@@ -663,46 +586,45 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 
 
-
-/* Bus Section
+/* Pink1 Section
 --------------------------------*/
 
-#bus {
+#pink1 {
   background: #fff;
   padding: 80px 0;
 }
 
-#bus .bus-container .background {
+#pink1 .pink1-container .background {
   min-height: 300px;
-  background: url(../images/Bus.jpg) center top no-repeat;
+  background: url(../images/Pink.jpg) center top no-repeat;
   margin-bottom: 10px;
 }
 
-#bus .bus-container .content {
+#pink1 .pink1-container .content {
   background: #fff;
 }
 
-#bus .bus-container .title {
+#pink1 .pink1-container .title {
   color: #333;
   font-weight: 700;
   font-size: 32px;
 }
 
-#bus .bus-container p {
+#pink1 .pink1-container p {
   line-height: 26px;
 }
 
-#bus .bus-container p:last-child {
+#pink1 .pink1-container p:last-child {
   margin-bottom: 0;
 }
 
-#bus .bus-container .icon-box {
+#pink1 .pink1-container .icon-box {
   background: #fff;
   background-size: cover;
   padding: 0 0 30px 0;
 }
 
-#bus .bus-container .icon-box .icon {
+#pink1 .pink1-container .icon-box .icon {
   float: left;
   background: #fff;
   width: 64px;
@@ -729,12 +651,12 @@ body.mobile-nav-active #mobile-nav-toggle {
   border: 2px solid #2dc997;
 }
 
-#bus .bus-container .icon-box .icon i {
+#pink1 .pink1-container .icon-box .icon i {
   color: #2dc997;
   font-size: 24px;
 }
 
-#bus .bus-container .icon-box .title {
+#pink1 .pink1-container .icon-box .title {
   margin-left: 80px;
   font-weight: 500;
   margin-bottom: 5px;
@@ -742,11 +664,11 @@ body.mobile-nav-active #mobile-nav-toggle {
   text-transform: uppercase;
 }
 
-#bus .bus-container .icon-box .title a {
+#pink1 .pink1-container .icon-box .title a {
   color: #111;
 }
 
-#bus .bus-container .icon-box .description {
+#pink1 .pink1-container .icon-box .description {
   margin-left: 80px;
   line-height: 24px;
   font-size: 14px;
@@ -757,63 +679,96 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 
 
-
-
-
-
-
-
-/* Park Section
+/* Coffee1 Section
 --------------------------------*/
 
-#park {
+#coffee1 {
   background: #fff;
-  padding: 80px 0 60px 0;
+  padding: 80px 0;
 }
 
-#park .member {
-  text-align: center;
-  margin-bottom: 20px;
+#coffee1 .coffee1-container .background {
+  min-height: 300px;
+  background: url(../images/Coffee.jpg) center top no-repeat;
+  margin-bottom: 10px;
 }
 
-#park .member .pic {
-  margin-bottom: 15px;
-  overflow: hidden;
-  height: 260px;
+#coffee1 .coffee1-container .content {
+  background: #fff;
 }
 
-#park .member .pic img {
-  max-width: 100%;
-}
-
-#park .member h4 {
+#coffee1 .coffee1-container .title {
+  color: #333;
   font-weight: 700;
-  margin-bottom: 2px;
-  font-size: 18px;
+  font-size: 32px;
 }
 
-#park .member span {
-  font-style: italic;
-  display: block;
-  font-size: 13px;
+#coffee1 .coffee1-container p {
+  line-height: 26px;
 }
 
-#park .member .social {
-  margin-top: 15px;
+#coffee1 .coffee1-container p:last-child {
+  margin-bottom: 0;
 }
 
-#park .member .social a {
-  color: #b3b3b3;
+#coffee1 .coffee1-container .icon-box {
+  background: #fff;
+  background-size: cover;
+  padding: 0 0 30px 0;
 }
 
-#park .member .social a:hover {
+#coffee1 .coffee1-container .icon-box .icon {
+  float: left;
+  background: #fff;
+  width: 64px;
+  height: 64px;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  text-align: center;
+  border-radius: 50%;
+  border: 2px solid #2dc997;
+}
+
+#coffee1 .coffee1-container .icon-box .icon i {
   color: #2dc997;
+  font-size: 24px;
 }
 
-#park .member .social i {
+#coffee1 .coffee1-container .icon-box .title {
+  margin-left: 80px;
+  font-weight: 500;
+  margin-bottom: 5px;
   font-size: 18px;
-  margin: 0 2px;
+  text-transform: uppercase;
 }
+
+#coffee1 .coffee1-container .icon-box .title a {
+  color: #111;
+}
+
+#coffee1 .coffee1-container .icon-box .description {
+  margin-left: 80px;
+  line-height: 24px;
+  font-size: 14px;
+}
+
+
+
 
 
 
@@ -867,7 +822,19 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 @media (max-width: 1024px) {
-  #action {
+  #red1 {
+    background-attachment: scroll;
+  }
+}
+
+@media (max-width: 1024px) {
+  #pink1 {
+    background-attachment: scroll;
+  }
+}
+
+@media (max-width: 1024px) {
+  #coffee1 {
     background-attachment: scroll;
   }
 }
@@ -904,7 +871,15 @@ body.mobile-nav-active #mobile-nav-toggle {
     display: inline;
   }
 
-  #bus .bus-container .title {
+  #red1 .red1-container .title {
+    padding-top: 15px;
+  }
+  
+  #pink1 .pink1-container .title {
+    padding-top: 15px;
+  }
+  
+  #coffee1 .coffee1-container .title {
     padding-top: 15px;
   }
 }
